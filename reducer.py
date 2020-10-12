@@ -10,7 +10,7 @@ def main(): # Reducer
     for line in sys.stdin:
         key, value = line.split('\t')
         if key != prev_key and prev_key is not None:
-            reduced_key, reduced_value = reduce(key, values)
+            reduced_key, reduced_value = reduce(prev_key, values)
             emit(reduced_key, str(reduced_value))
             values = []
         values.append(float(value))

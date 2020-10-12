@@ -1,0 +1,23 @@
+Australia	8.739999999999998
+Austria	3.7
+Belgium	11.81
+Brazil	6.180000000000001
+Canada	1.54
+Costa Rica	11.78
+Finland	3.22
+France	2.0100000000000002
+Iceland	8.97
+Ireland	20.929999999999996
+Israel	8.59
+Luxembourg	16.549999999999997
+Mexico	12.629999999999999
+Netherlands	0.9
+New Zealand	14.06
+Norway	0.59
+Oman	7.9799999999999995
+Panama	18.529999999999998
+Sweden	0.55
+Switzerland	1.55
+United Arab Emirates	19.809999999999995
+United Kingdom	8.64
+United States	17.45
